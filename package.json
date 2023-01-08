@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "scripts": {
     "run:cause": "node error_cause/index.js"
+  },
+  "dependencies": {
+    "wretch": "^2.3.1"
   }
 }

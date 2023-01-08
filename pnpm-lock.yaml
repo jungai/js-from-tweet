@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  wretch: ^2.3.1
+
+dependencies:
+  wretch: 2.3.1
+
+packages:
+
+  /wretch/2.3.1:
+    resolution: {integrity: sha512-oiu/J0m7e75MaxPkJcvFU45hcH+/aRc3iFTZ6Q+FEjacyLVyh2PY/ruNuqSkQUH7MWeYwkoKBusf7EM2RMNvTw==}
+    engines: {node: '>=14'}
+    dev: false
